@@ -302,6 +302,5 @@ to draw-walls ; las paredes
     ask patch  -7 -11  [set pcolor pink]
     ask patch  -11 -13 [set pcolor pink]
     ask patch  -11 -14 [set pcolor pink]
-
   ]
 end
